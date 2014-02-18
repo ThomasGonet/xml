@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<textemath>
+	<texte>
+		<formule>
+			<fraction>
+				<op1>
+					<formule>
+						<somme>
+							<op1>
+								<formule>
+									<puissance exposant="4">
+										<op1><valeur>x</valeur></op1>
+									</puissance>
+								</formule>
+							</op1>
+							<op2>
+								<formule>
+
+								</formule>
+							</op2>
+						</somme>
+					</formule>
+				</op1>
+				<op2>
+					<formule>
+
+					</formule>
+				</op2>
+			</fraction>
+		</formule>
+	</texte>
+</textemath>
